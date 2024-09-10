@@ -9,4 +9,4 @@ The script is in Jupyter notebook format, and reads data from the .xlsx file als
 
 Any edits made to .xlsx file name in a local copy once forked need to be rectified in the script (see line 10-11 of code)
 
-Any questions, ping me an email [Link Text](mailto:stephchodnett@gmail.com) or message me on Discord. Thank you!
+Any questions, ping me an email [stephchodnett@gmail.com](mailto:stephchodnett@gmail.com) or message me on Discord. Thank you!
