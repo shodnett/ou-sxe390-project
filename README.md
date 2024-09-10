@@ -5,7 +5,7 @@ Dissertation title was "The influence of tidal range on sediment and dissolved h
 
 
 # Formatting
-The script is in Jupyter notebook format, and reads data from the .xlsx file also included in this repo. 
+The script (metals.ipynb) is in Jupyter notebook format, and reads data from the Excel file (Appendix_4.xlsx) also included in this repo. 
 
 Any edits made to .xlsx file name in a local copy once forked need to be rectified in the script (see line 10-11 of code)
 
